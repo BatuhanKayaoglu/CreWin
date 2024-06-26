@@ -1,0 +1,6 @@
+@CreWin.API_HostAddress = http://localhost:5047
+
+GET {{CreWin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
